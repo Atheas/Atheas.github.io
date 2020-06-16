@@ -1,4 +1,6 @@
 main:
+  - title: "Centre"
+    url: /centre/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
