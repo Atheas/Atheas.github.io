@@ -62,7 +62,7 @@ The home page with posts from a wordpress website:
 ![The home page with posts from a wordpress website](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221354_terradom.io.png)
 
 The administrator page:
-![The administrator page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221354_terradom.io.png)
+![The administrator page](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 203124.png)
 
 ---
 ###Mini-tournaments
