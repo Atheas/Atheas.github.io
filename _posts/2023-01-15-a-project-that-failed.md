@@ -10,7 +10,7 @@ tags:
 ---
 
 What I wanted to do was create a website where people can compete in mini-tournaments for specific games. But. There's a lot more into creating a production-ready website.
-And what I did is not ready at all for production. I went and leaped straight into the idea of the website existing, but, as I said, there's a lot more to be done for it exist steadily, and I failed to recognise that. 
+And what I did was not ready at all for production. I went and leaped straight into the idea of the website existing, but, as I said, there's a lot more to be done for it exist steadily, and I failed to recognise that. 
 And so. Here comes the retrospective blogging of the creation of the website.
 
 I will be discussing the features that the website did or does, the past tense is for when if the website is not functional and not being hosted anymore, and it's likely that's the case.
@@ -36,3 +36,27 @@ The tools used for creating the website:
 - Django 
 - Celery Tasks
 - Docker 
+
+---
+
+The sign-up page:
+![The sign-up page](Opera Snapshot_2023-01-14_222656_terradom.io.png)
+
+The login page:
+![The login page](Opera Snapshot_2023-01-14_222343_terradom.io.png)
+
+The profile page:
+![The profile page](Opera Snapshot_2023-01-14_223018_terradom.io.png)
+
+The create-mini-tournament advanced settings page:
+![The create-mini-tournament advanced settings page](Opera Snapshot_2023-01-14_221932_terradom.io.png)
+
+The create-mini-tournament settings page:
+![The create-mini-tournament settings page](Opera Snapshot_2023-01-14_221904_terradom.io.png)
+
+The home page with posts from a wordpress website:
+![The home page with posts from a wordpress website](Opera Snapshot_2023-01-14_221354_terradom.io.png)
+
+
+
+
