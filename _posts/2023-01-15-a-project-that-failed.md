@@ -36,6 +36,9 @@ The tools used for creating the website:
 - Django 
 - Celery Tasks
 - Docker 
+- AWS
+- WinSCP
+- Terminal
 
 ---
 
