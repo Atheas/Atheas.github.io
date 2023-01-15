@@ -40,22 +40,22 @@ The tools used for creating the website:
 ---
 
 The sign-up page:
-![The sign-up page](Opera Snapshot_2023-01-14_222656_terradom.io.png)
+![The sign-up page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_222656_terradom.io.png)
 
 The login page:
-![The login page](Opera Snapshot_2023-01-14_222343_terradom.io.png)
+![The login page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_222343_terradom.io.png)
 
 The profile page:
-![The profile page](Opera Snapshot_2023-01-14_223018_terradom.io.png)
+![The profile page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_223018_terradom.io.png)
 
 The create-mini-tournament advanced settings page:
-![The create-mini-tournament advanced settings page](Opera Snapshot_2023-01-14_221932_terradom.io.png)
+![The create-mini-tournament advanced settings page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221932_terradom.io.png)
 
 The create-mini-tournament settings page:
-![The create-mini-tournament settings page](Opera Snapshot_2023-01-14_221904_terradom.io.png)
+![The create-mini-tournament settings page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221904_terradom.io.png)
 
 The home page with posts from a wordpress website:
-![The home page with posts from a wordpress website](Opera Snapshot_2023-01-14_221354_terradom.io.png)
+![The home page with posts from a wordpress website](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221354_terradom.io.png)
 
 
 
