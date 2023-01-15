@@ -41,6 +41,7 @@ The tools used for creating the website:
 - WinSCP
 - Terminal
 
+Below this would be a collection of screenshots showing the website, right-click and open the image in a new tab to see more clearly.
 ---
 
 The sign-up page:
@@ -65,7 +66,7 @@ The administrator page:
 ![The administrator page](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 203124.png)
 
 ---
-###Mini-tournaments
+Mini-tournaments
 
 List of mini-tournament posts:
 ![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 202802.png)
