@@ -27,9 +27,10 @@ The website consists of the basic features of a typical website plus other featu
 - A page where a specific mini-tournament can be viewed in detail 
 
 The backend consists of:
-- Celery tasks 
-- Processsor for the mini-tournaments 
-- Processor for sign-up, login, change-profile, reset-password processes
+- Celery tasks.
+- Processsor for the mini-tournaments.
+- Processor for sign-up, login, change-profile, and reset-password processes.
+- Processor for email notifications.
 - And more.
 
 The tools used for creating the website:
@@ -60,6 +61,24 @@ The create-mini-tournament settings page:
 The home page with posts from a wordpress website:
 ![The home page with posts from a wordpress website](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221354_terradom.io.png)
 
+The administrator page:
+![The administrator page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221354_terradom.io.png)
 
+---
+###Mini-tournaments
+
+List of mini-tournament posts:
+![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 202802.png)
+
+Mini-tournament in detail, in the eyes of a NORMAL user:
+![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 203848.png)
+
+Mini-tournament in detail, in the eyes of a LOGGED-OUT user:
+![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 202913.png)
+
+Mini-tournament in detail, in the eyes of an ADMIN user:
+![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 203214.png)
+
+---
 
 
