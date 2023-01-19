@@ -15,6 +15,8 @@ And so. Here comes the retrospective blogging of the creation of the website.
 
 I will be discussing the features that the website did or does, the past tense is for when if the website is not functional and not being hosted anymore, and it's likely that's the case.
 
+The website is https://terradom.io, it might not be functional by the time you're reading this, just note that.
+
 The website consists of the basic features of a typical website plus other features:
 - A login page
 - A sign-up page 
@@ -40,6 +42,10 @@ The tools used for creating the website:
 - AWS
 - WinSCP
 - Terminal
+- Atlassian Jira for management of addition of new features, code changes, et cetera
+- Notion for attempted team management, but all the time I was solo-devving Terradom.io
+
+Overall, I played with a lot of tools and used few coding languages such as Python, CSS, HTML, Javascript.
 
 Below this would be a collection of screenshots showing the website, right-click and open the image in a new tab to see more clearly.
 ---
@@ -53,20 +59,17 @@ The login page:
 The profile page:
 ![The profile page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_223018_terradom.io.png)
 
-The create-mini-tournament advanced settings page:
-![The create-mini-tournament advanced settings page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221932_terradom.io.png)
-
 The create-mini-tournament settings page:
 ![The create-mini-tournament settings page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221904_terradom.io.png)
+
+The create-mini-tournament advanced settings page:
+![The create-mini-tournament advanced settings page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221932_terradom.io.png)
 
 The home page with posts from a wordpress website:
 ![The home page with posts from a wordpress website](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_221354_terradom.io.png)
 
 The administrator page:
 ![The administrator page](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 203124.png)
-
----
-Mini-tournaments
 
 List of mini-tournament posts:
 ![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 202802.png)
@@ -81,5 +84,12 @@ Mini-tournament in detail, in the eyes of an ADMIN user:
 ![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-15 203214.png)
 
 ---
+
+How I used Atlassian Jira:
+![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-19 210103.png)
+
+---
+
+
 
 
