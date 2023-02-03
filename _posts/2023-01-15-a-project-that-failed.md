@@ -50,6 +50,9 @@ Overall, I played with a lot of tools and used few coding languages such as Pyth
 Below this would be a collection of screenshots showing the website, right-click and open the image in a new tab to see more clearly.
 ---
 
+The landing page for getting sign-ups:
+![The landing page for getting sign-ups](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-02-03_110723_hello.terradom.io)
+
 The sign-up page:
 ![The sign-up page](/assets/images/perpost/a-project-that-failed/Opera Snapshot_2023-01-14_222656_terradom.io.png)
 
