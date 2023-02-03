@@ -39,7 +39,7 @@ The tools used for creating the website:
 - Django 
 - Celery Tasks
 - Docker 
-- AWS
+- AWS -> AWS EC2, AWS Route 53, AWS Lightsail, and more
 - WinSCP
 - Terminal
 - Atlassian Jira for management of addition of new features, code changes, et cetera
