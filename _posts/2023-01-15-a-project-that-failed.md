@@ -15,7 +15,7 @@ And so. Here comes the retrospective blogging of the creation of the website.
 
 I will be discussing the features that the website did or does, the past tense is for when if the website is not functional and not being hosted anymore, and it's likely that's the case.
 
-The website is https://terradom.io, it might not be functional by the time you're reading this, just note that.
+The website is [https://terradom.io](https://terradom.io), it might not be functional by the time you're reading this, just note that.
 
 The website consists of the basic features of a typical website plus other features:
 - A login page
@@ -39,7 +39,7 @@ The tools used for creating the website:
 - Django 
 - Celery Tasks
 - Docker 
-- AWS -> AWS EC2, AWS Route 53, AWS Lightsail, and more
+- AWS -> AWS EC2, AWS Route 53, AWS Lightsail, AWS S3 and more
 - WinSCP
 - Terminal
 - Atlassian Jira for management of addition of new features, code changes, et cetera
