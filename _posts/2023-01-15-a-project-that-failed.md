@@ -94,5 +94,5 @@ How I used Atlassian Jira:
 ---
 
 
-
+Along those, I made questionnaires to determine market, and researched the market, attempted to hire volunteers for the project, and attempted to organise the team-  through Atlassian Jira and Discord. I've made individual emails for each team-member and added them to the company's Notion team collaboration website.
 
