@@ -89,7 +89,10 @@ Mini-tournament in detail, in the eyes of an ADMIN user:
 ---
 
 How I used Atlassian Jira:
-![Mini-tournament posts](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-19 210103.png)
+![How I used Atlassian Jira](/assets/images/perpost/a-project-that-failed/Screenshot 2023-01-19 210103.png)
+
+How I used Notion:
+![How I used Notion](/assets/images/perpost/a-project-that-failed/Screenshot 2023-02-06 221327.png)
 
 ---
 
