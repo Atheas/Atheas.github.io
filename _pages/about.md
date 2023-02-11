@@ -3,7 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-I'm an aspiring DevOps Engineer with developer experience. My email is greianecastillo@gmail.com :)
+I'm an aspiring DevOps Engineer with developer experience. 
+
+My email is greianecastillo@gmail.com :)
 
 DevOps is a massive job to handle, with lots of tools to use and learn. With that said, it's important to have a solid roadmap into being a competent DevOps engineer. And here lies all the things I will learn or have learnt.
 
