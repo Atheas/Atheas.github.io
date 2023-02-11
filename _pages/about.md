@@ -11,29 +11,29 @@ Currently learning at this moment:
 
 Certifications
 ---
-AWS Solutions Architect [Completed]
-AWS Developer Associate [Incomplete]
-AWS SysOps Associate [Incomplete]
+- AWS Solutions Architect [Completed]
+- AWS Developer Associate [Incomplete]
+- AWS SysOps Associate [Incomplete]
 
 Languages 
 ---
-Python
-JavaScript
-HTML
-CSS
+- Python
+- JavaScript
+- HTML
+- CSS
 
 Tools
 ---
-Docker
+- Docker
 
 Other Technology
 ---
-Django
-Vue.js
+- Django
+- Vue.js
 
 Learning Modules
 ---
-TechWorld DevOps BootCamp By Nana [Incomplete] 
+- TechWorld DevOps BootCamp By Nana [Incomplete] 
 
 
 
