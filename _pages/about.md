@@ -3,6 +3,37 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm an aspiring DevOps Engineer with developer experience. My email is greianecastillo@gmail.com :)
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+DevOps is a massive job to handle, with lots of tools to use and learn. With that said, it's important to have a solid roadmap into being a competent DevOps engineer. And here lies all the things I will learn or have learnt.
+
+Currently learning at this moment: 
+
+Certifications
+---
+AWS Solutions Architect [Completed]
+AWS Developer Associate [Incomplete]
+AWS SysOps Associate [Incomplete]
+
+Languages 
+---
+Python
+JavaScript
+HTML
+CSS
+
+Tools
+---
+Docker
+
+Other Technology
+---
+Django
+Vue.js
+
+Learning Modules
+---
+TechWorld DevOps BootCamp By Nana [Incomplete] 
+
+
+
